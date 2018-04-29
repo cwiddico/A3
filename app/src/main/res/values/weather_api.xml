@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_key" templateMergeStrategy="preserve" translatable="false">17f2c498c2bb194645a66d1b718957f7</string>
+
+</resources>
